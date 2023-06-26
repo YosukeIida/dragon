@@ -50,6 +50,7 @@ public class Player extends GameCharacter {
         }
     }
 
+
     public void move() {
         // 移動
         x += xSpeed;
